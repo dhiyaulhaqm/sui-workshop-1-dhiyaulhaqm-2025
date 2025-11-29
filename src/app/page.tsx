@@ -8,7 +8,7 @@ export default function page() {
         <CardTitle className="text-4xl font-bold">Workshop Frontend</CardTitle>
       </CardHeader>
       <CardContent className="flex flex-col gap-2">
-        <span>Code Here!</span>
+        <span>Start Here!</span>
       </CardContent>
     </Card>
   )
